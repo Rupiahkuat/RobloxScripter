@@ -5,6 +5,7 @@ Hey developers,
 Tired of clunky AI tools that force you to copy-paste code blocks, track credit meters, or rely on fragile browser extensions that break the moment a web layout updates?
 Meet RobloxScripter v4.3 (MCP Edition)—a fully open-source, local AI bridge that hooks professional AI desktop clients directly into Roblox Studio using official, built-in Roblox Model Context Protocol (MCP).
 Zero browser extensions. Zero copy-pasting. 100% local server control.
+🌐 Official Website & Live Demo: https://mcpgoodscripter.netlify.app/
 
 💎 Why RobloxScripter Over Traditional AI Tools?
 
@@ -22,7 +23,7 @@ Because the bridge runs through native desktop data pipelines, browser-only chat
 2. Claude Desktop
 3. Claude Code (CLI agent)
 
-⚡ Quick 5-Minute Setup Guide
+⚡ Quick 4-Step Setup Guide
 
 Steps 1–3 are a one-time process.
 
@@ -58,4 +59,4 @@ Watch it execute directly inside your Studio workspace!
 
 RobloxScripter is built in plain Lua and JavaScript with no hidden compiled binaries—the code is transparent and auditable. The local server listens strictly on 127.0.0.1 using a cryptographic handshake token, entirely blocking external host/origin request forging.
 Stop wrestling with browser extensions and paying per prompt on gated plugins. Elevate your game development workflow with true local AI agency.
-🔗 [Download from GitHub / View Source Code]
+🌐 Get Started at Our Website: https://mcpgoodscripter.netlify.app/
