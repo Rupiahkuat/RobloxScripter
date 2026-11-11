@@ -10,7 +10,7 @@ Zero browser extensions. Zero copy-pasting. 100% local server control.
 💎 Why RobloxScripter Over Traditional AI Tools?
 
 Unlike older automation tools that try to scrape web-based AI chats through Chrome extensions, RobloxScripter plugs directly into your professional development environment.
-• 🔌 Pure Native Architecture (No Extensions): RobloxScripter doesn’t care about web UI updates. By communicating through native MCP tool calls over stdio, your connection is incredibly fast, stable, and unbreakable.
+• 🔌 Pure Native Architecture (No Extensions): RobloxScripter doesn’t care about web UI updates. By communicating through native MCP tool calls over studio, your connection is incredibly fast, stable, and unbreakable.
 • 📁 Rojo-Style Live Syncing: Your scripts are automatically mirrored as real .lua files on your local machine. You can type in Cursor, VS Code, or Claude Code, and Roblox Studio follows in real-time.
 • 🧰 32 Production-Ready Tools: The agent doesn't just hand you code to paste. It reads your whole game tree hierarchy, dynamically modifies scripts, builds UI layouts, alters lighting, shapes terrain, and runs live playtests.
 • 📦 Built-in Macro Library (server/macros/): Save your context token limits! RobloxScripter ships with pre-optimized macro templates for standard infrastructure, such as Datastore bootstraps and responsive UI scales, allowing the AI to inject instant boilerplate setups.
@@ -50,7 +50,6 @@ json
     }
   }
 }
-Gunakan kode dengan hati-hati.
 Open any game project in Roblox Studio, open your Cursor or Claude chat, and say:
 "Take a project snapshot, summarize my game tree, and build a simple checkpoint system."
 Watch it execute directly inside your Studio workspace!
