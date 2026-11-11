@@ -1,0 +1,12 @@
+# Node cache and dependencies
+node_modules/
+npm-debug.log*
+
+# OS temporary files
+.DS_Store
+Thumbs.db
+
+# Local configuration secrets
+.env
+mcp-config.json
+!mcp-config.example.json
